@@ -1,0 +1,11 @@
+
+body {
+    background: linear-gradient(to right, orange, green);
+  }
+  
+
+  h1,p {
+    color: blue;
+    background-color: yellow; 
+  }
+  
